@@ -13,7 +13,9 @@
 
 - ### 部署步骤
 
-  使用https://nbviewer.jupyter.org/进行解析，直接调用即可。
+  通过[https://nbviewer.jupyter.org](https://nbviewer.jupyter.org/)
+
+  进行解析，直接调用即可。
 
 - ### 相关项目
 
