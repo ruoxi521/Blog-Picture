@@ -20,7 +20,7 @@
 
 - ### 相关项目
 
-  我的个人博客Blog-Hexo：[sujit-168.github.io](http://sujie-168.top/)
+  我的个人博客：[sujit-168.github.io](https://sujie-168.top/)
 
 - ### 主要项目负责人
 
