@@ -1,5 +1,4 @@
 # Blog-Picture
-<<<<<<< HEAD
 - ### 项目简介
 
   本仓库将作为我个人博客的图床
@@ -32,4 +31,3 @@
 
 =======
 存放图片
->>>>>>> parent of a9f7072... readme commit
