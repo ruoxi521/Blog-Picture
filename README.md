@@ -13,9 +13,9 @@
 
 - ### 部署步骤
 
-  通过[https://nbviewer.jupyter.org](https://nbviewer.jupyter.org/)
+  1.通过[https://nbviewer.jupyter.org](https://nbviewer.jupyter.org/)进行解析，直接调用即可。
 
-  进行解析，直接调用即可。
+  2.使用markdown图片语法链接调用![](这里添加图片链接即可，将链接中的)
 
 - ### 相关项目
 
@@ -28,3 +28,4 @@
 - ### 声明
 
   图片素材均来源于网络，本人只进行了收集工作，如有疑问，请致件2054552689@qq.com。
+
