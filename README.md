@@ -16,6 +16,7 @@
   1.通过[https://nbviewer.jupyter.org](https://nbviewer.jupyter.org/)进行解析，直接调用即可。
 
   2.使用markdown图片语法链接调用
+  ![](https://github.com/sujit-168/Blog-Picture/raw/master/My_Readme/Blog_picture1.jpg)
 
 - ### 相关项目
 
