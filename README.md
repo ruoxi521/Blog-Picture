@@ -15,7 +15,7 @@
 
   1.通过[https://nbviewer.jupyter.org](https://nbviewer.jupyter.org/)进行解析，直接调用即可。
 
-  2.使用markdown图片语法链接调用![](这里添加图片链接即可，将链接中的)
+  2.使用markdown图片语法链接调用
 
 - ### 相关项目
 
